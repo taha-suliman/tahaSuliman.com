@@ -1,14 +1,14 @@
 // src/data/certificates.js
 const basic  = import.meta.env.BASE_URL.replace(/\$/,'');
-const front = `${basic}/images/Certificates/react.pdf` ; 
-const back = `${basic}/images/Certificates/Node.pdf` ; 
-const IT = `${basic}/images/Certificates/it.pdf` ; 
-const PHP = `${basic}/images/Certificates/PHP.jpg` ; 
-const Codeavour = `${basic}/images/Certificates/Code6.0.jpg` ; 
-const VolunteerAppreciation = `${basic}/images/Certificates/Ta-VHO.jpg` ; 
-const DigitalMarketing = `${basic}/images/Certificates/DiMark.jpg` ; 
-const GameHacking = `${basic}/images/Certificates/msp.jpg` ; 
-const Developers01 = `${basic}/images/Certificates/Thanks01.jpg` ; 
+const front = `${basic}images/Certificates/react.pdf` ; 
+const back = `${basic}images/Certificates/Node.pdf` ; 
+const IT = `${basic}images/Certificates/it.pdf` ; 
+const PHP = `${basic}images/Certificates/PHP.jpg` ; 
+const Codeavour = `${basic}images/Certificates/Code6.0.jpg` ; 
+const VolunteerAppreciation = `${basic}images/Certificates/Ta-VHO.jpg` ; 
+const DigitalMarketing = `${basic}images/Certificates/DiMark.jpg` ; 
+const GameHacking = `${basic}images/Certificates/msp.jpg` ; 
+const Developers01 = `${basic}images/Certificates/Thanks01.jpg` ; 
 
 const certificates = [
   {

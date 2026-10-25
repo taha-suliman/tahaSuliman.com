@@ -2,7 +2,7 @@
 
 // src/data/translations.js
 const basic  = import.meta.env.BASE_URL.replace(/\$/,'');
-const profile = `${basic}/images/hero/profile-1.png` ; 
+const profile = `${basic}images/hero/profile-1.png` ; 
 
 const translations = {
   ar: {
@@ -26,17 +26,17 @@ const translations = {
       slides: [
         {
           // image: profile ,
-          image: `${basic}/images/hero/profile-1.png`,
+          image: `${basic}images/hero/profile-1.png`,
           description: 'مطوّر ويب Full Stack متخصص في React.js و Node.js، أبني حلولاً تقنية متكاملة وفعّالة.',
         },
         {
           // image: profile ,
-          image: `${basic}/images/hero/profile-2.png`,
+          image: `${basic}images/hero/profile-2.png`,
           description: 'متخصص في الشبكات والبنية التحتية، أمتلك خبرة في إعداد وتوصيل الشبكات، تركيب كاميرات المراقبة، وإدارة سيرفرات Windows.',
         },
         {
           // image: profile ,
-          image: `${basic}/images/hero/profile-3.png`,
+          image: `${basic}images/hero/profile-3.png`,
           description: 'متطوع نشيط ومدرّب في ورش تطوير الويب وأساسيات الحاسوب والتصميم.',
         },
       ],
@@ -116,15 +116,15 @@ const translations = {
       contact: 'Get In Touch',
       slides: [
         {
-          image: `${basic}/images/hero/profile-1.png`,
+          image: `${basic}images/hero/profile-1.png`,
           description: 'Full Stack Web Developer specializing in React.js & Node.js, building complete and efficient technical solutions.',
         },
         {
-          image: `${basic}/images/hero/profile-2.png`,
+          image: `${basic}images/hero/profile-2.png`,
           description: 'Networking and infrastructure specialist with experience in network setup and installation, surveillance camera installation, and Windows Server administration.',
         },
         {
-          image: `${basic}/images/hero/profile-3.png`,
+          image: `${basic}images/hero/profile-3.png`,
           description: 'Active volunteer and trainer in web development, computer basics, and design workshops.',
         },
       ],
@@ -204,15 +204,15 @@ const translations = {
       contact: 'Tuntuɓe ni',
       slides: [
         {
-          image: `${basic}/images/hero/profile-1.png`,
+          image: `${basic}images/hero/profile-1.png`,
           description: 'Maƙerin Yanar Gizo Full Stack wanda ya ƙware a React.js da Node.js, yana gina cikakken hanyoyin fasaha.',
         },
         {
-          image: `${basic}/images/hero/profile-2.png`,
+          image: `${basic}images/hero/profile-2.png`,
           description: 'Mai aikin sa-kai mai aiki da kuma mai horar da mutane a harkar gina yanar gizo da ƙirar kwamfuta.',
         },
         {
-          image: `${basic}/images/hero/profile-3.png`,
+          image: `${basic}images/hero/profile-3.png`,
           description: 'Mai aikin sa-kai mai aiki da kuma mai horar da mutane a harkar gina yanar gizo da ƙirar kwamfuta.',
         },
       ],
